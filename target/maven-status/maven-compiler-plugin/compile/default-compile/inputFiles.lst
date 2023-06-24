@@ -1,0 +1,17 @@
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\commons\dto\PlayerDTO.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\CreatePlayerRequest.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\model\enity\PlayerDO.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\application\PlayersoapApplication.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\DeletePlayerRequest.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\persistence\PlayerDAO.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\UpdatePlayerRequest.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\application\WebServiceConfig.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\ReadPlayerResponse.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\service\impl\PlayerServiceImpl.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\service\PlayerService.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\application\PlayerEndpoint.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\CreatePlayerResponse.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\ReadPlayerRequest.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\package-info.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\ObjectFactory.java
+C:\Users\Pedro.Vargas\Desktop\cursoSOAPREST\EjercicioSOAP\SOAPExercisefrom0\src\main\java\dnd\axity\com\interfaces\PlayerType.java
